@@ -1,0 +1,4 @@
+fnal
+====
+
+Functional js lib
