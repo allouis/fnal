@@ -1,0 +1,25 @@
+{
+  "name": "fnal",
+  "version": "0.0.0",
+  "description": "Functional javascript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/allouis/fnal.git"
+  },
+  "keywords": [
+    "function",
+    "fnal",
+    "fn",
+    "functional"
+  ],
+  "author": "Fabien O'Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/fnal/issues"
+  },
+  "homepage": "https://github.com/allouis/fnal"
+}
