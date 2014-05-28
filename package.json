@@ -2,7 +2,7 @@
   "name": "fnal",
   "version": "0.0.0",
   "description": "Functional javascript library",
-  "main": "index.js",
+  "main": "fnal.js",
   "scripts": {
     "test": "mocha"
   },
