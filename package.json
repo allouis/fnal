@@ -22,7 +22,5 @@
     "url": "https://github.com/allouis/fnal/issues"
   },
   "homepage": "https://github.com/allouis/fnal",
-  "dependencies": {
-    "indexjs": "0.0.2"
-  }
+  "dependencies": {}
 }
